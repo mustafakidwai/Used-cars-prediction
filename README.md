@@ -8,6 +8,8 @@ This project consists of 4 segments namely:
 
 3.Model Building
 
+4.Deployment(heroku cloud)
+
 ## Technology and tools used in this project:
  -Python
  -Numpy and Pandas for data cleaning
