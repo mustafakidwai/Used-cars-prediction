@@ -19,4 +19,5 @@ This project consists of 4 segments namely:
  -Streamlit to build web app
  -Heroku to deploy and manage web apps
 
-App Link: https://sell-any-car.herokuapp.com/
+The deployed web app is live [here.](https://sell-any-car.herokuapp.com/)
+
