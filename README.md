@@ -2,9 +2,9 @@
 # Used-cars-prediction
 This project consists of 4 segments namely:
 
-1.Data cleaning and preprocessing 
+1.Exploratory Data Analysis
 
-2.Exploratory Data Analysis
+2.Data cleaning and preprocessing 
 
 3.Model Building
 
